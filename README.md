@@ -33,9 +33,28 @@ Cada proyecto cuenta con una breve descripción para facilitar su comprensión.
 
 ---
 
+## Trabajo Práctico Integrador – Bases de Datos
+Este repositorio incluye un **trabajo práctico integrador** de la materia **Bases de Datos**, que abarca el proceso completo de análisis, diseño e implementación de una base de datos.
+
+### Alcance del trabajo
+- Análisis de requerimientos a partir de una entrevista  
+- Diseño del **DEI (Diagrama Entidad-Interrelación)**  
+- Diseño del **MR (Modelo Relacional)**  
+- Elaboración del **DMR (Diagrama del Modelo Relacional)**  
+- Creación y montaje de la base de datos en **PostgreSQL**  
+- Inserción de datos realistas  
+- Desarrollo de **10 consultas SQL** sobre la base de datos  
+
+ Entrevista utilizada como base del análisis:  
+https://www.youtube.com/watch?v=AfBtOn_4QBc
+
+---
+
 ## Contacto
-- LinkedIn: https://www.linkedin.com/in/lautaro-varela-3376622a0/
-- Mail: varelalautaro664@gmail.com 
+- **LinkedIn:** https://www.linkedin.com/in/lautaro-varela-3376622a0/
+- **Email:** varelalautaro664@gmail.com
+
+
 
 
 
