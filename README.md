@@ -50,9 +50,21 @@ https://www.youtube.com/watch?v=AfBtOn_4QBc
 
 ---
 
+## Poyecto de COBOL sobre empleados
+Este proyecto consiste en que a partir de un archivo .csv o .txt con carga de datos reales de empleados, poder crear un archivo indexado, leerlo y eliminar empleados por si ID.
+
+## Qué se ve en este proyecto?
+- manejo de Performs y Go To
+- manejo de variables compuestas
+- manejo de archivos indexados y secuenciales
+- lectura, escritura y eliminacios de registros
+- conocimiento y correcto uso de palabras reservadas
+- manejo de Rutas
+
 ## Contacto
 - **LinkedIn:** https://www.linkedin.com/in/lautaro-varela-3376622a0/
 - **Email:** varelalautaro664@gmail.com
+- **telefono** +54 9 11 2154-7217
 
 
 
