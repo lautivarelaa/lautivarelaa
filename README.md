@@ -61,6 +61,12 @@ Este proyecto consiste en que a partir de un archivo .csv o .txt con carga de da
 - conocimiento y correcto uso de palabras reservadas
 - manejo de Rutas
 
+---
+
+## Integración de python con PostgreSql
+En este proyecto se pueden leer archivos .csv desde python para cargar los datos de inserción en las tablas de Postgre sin tocar el mismo, unicamente creando las tablas previamente. Luego también se realizaron 10 consultas desde ambos lenguajes, nada más que en python se muestran los resultados tanto en forma de tablas como en graficos.
+
+- Con este proyecto se muestra el uso de librerias como Pandas, el manejo de PostgreSql, el manejo de graficos y de funciones de Python.
 ## Contacto
 - **LinkedIn:** https://www.linkedin.com/in/lautaro-varela-3376622a0/
 - **Email:** varelalautaro664@gmail.com
